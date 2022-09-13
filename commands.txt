@@ -9,3 +9,6 @@ Add all changes to staging area
 
 git commit -m "message"
 message
+
+git log
+can identify the all datas
